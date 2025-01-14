@@ -221,8 +221,8 @@
           "category": "Arduino",
           "url": "https://fundylab.github.io/arduino-board-index/boards/fundylab_samd_1.0.0.tar.bz2",
           "archiveFileName": "fundylab_samd_1.0.0.tar.bz2",
-          "checksum": "SHA-256:23de2b57192b6106cb290ab9e1e5c9b7647ff223ae2d02b95f0ed458568c184b",
-          "size": "903547",
+          "checksum": "SHA-256:9239c4921737083a58a10fc423b5c6291db7caee6ef85704032a11ada7e77b4c",
+          "size": "1054199",
           "boards": [
             {
               "name": "FundyLab plain SAMD21"
